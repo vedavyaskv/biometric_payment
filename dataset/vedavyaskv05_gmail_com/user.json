@@ -1,0 +1,39 @@
+{
+    "full_name": "Vedavyas Vishal",
+    "email": "vedavyaskv05@gmail.com",
+    "mobile": "9492341543",
+    "native_city": "RTPP",
+    "bank_name": "SBI",
+    "unique_id": "vedavyas.1543@sbi",
+    "security_questions": {},
+    "failed_attempts": 0,
+    "balance": 3550,
+    "transactions": [
+        {
+            "to": "kvv.6789@axis",
+            "amount": 1000,
+            "timestamp": "The current date is: Thu 01/29/2026 \nEnter the new date: (mm-dd-yy)"
+        },
+        {
+            "to": "kvv.6789@axis",
+            "amount": 100,
+            "timestamp": "The current date is: Thu 01/29/2026 \nEnter the new date: (mm-dd-yy)"
+        },
+        {
+            "to": "kvv.6789@axis",
+            "amount": 100,
+            "timestamp": "The current date is: Thu 01/29/2026 \nEnter the new date: (mm-dd-yy)"
+        },
+        {
+            "to": "kvv.6789@axis",
+            "amount": 150,
+            "timestamp": "The current date is: Thu 01/29/2026 \nEnter the new date: (mm-dd-yy)"
+        },
+        {
+            "to": "kvv.6789@axis",
+            "amount": 100,
+            "timestamp": "The current date is: Thu 01/29/2026 \nEnter the new date: (mm-dd-yy)"
+        }
+    ],
+    "created_on": "2026-01-29 16:46:15"
+}
